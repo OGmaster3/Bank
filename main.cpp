@@ -27,7 +27,7 @@ int main(){
 
     // Expense object
     Expense expense1("Groceries", 150.0);
-    cout << "Expense description: " << expense1.getDescription() << endl;
+    cout << "Expense descripion: " << expense1.getDescription() << endl;
 
     double expenseAmount;
     cout << "Enter expense amount: ";
